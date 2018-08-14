@@ -1,4 +1,5 @@
-# MardiCSS UI Sprint Design
+# UI Sprint Design
+
 The Hacking Project 14/08/2018
 
 Application rails avec création des composants :
