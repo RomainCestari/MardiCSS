@@ -1,0 +1,17 @@
+/* --- Import Google Fonts stylesheets --- */
+
+<link href="https://fonts.googleapis.com/css?family=Open+Sans:400,600,700|Playfair+Display:700" rel="stylesheet">
+
+/* --- Import Components stylesheets --- */ 
+@import url("button.css");
+@import url("avatar.css");
+@import url("cards.css");
+@import url("navbar.css");
+@import url("components/tabs.css");
+
+/* --- Fonts --- */ 
+body {
+font-family: 'Open Sans', sans-serif; }
+h1, h2, h3 {
+font-family: 'Playfair Display', serif;
+}
